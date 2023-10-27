@@ -1,10 +1,10 @@
 ## K8S
 ###### K8S cluster multi-tenant - Controlplane as-a-Service
-github.com/kubeops/config-syncer
+##### github.com/kubeops/config-syncer
 ###### Multi-tenancy and policy-based framework for Kubernetes - Namespace as-a-Service
-github.com/projectcapsule/capsule
+##### github.com/projectcapsule/capsule
 ###### vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.
-github.com/loft-sh/vcluster
+##### github.com/loft-sh/vcluster
 ###### Managed k8s distrs
 github.com/ \
 github.com/ \
