@@ -5,7 +5,7 @@ github.com/kubeops/config-syncer
 github.com/projectcapsule/capsule
 ###### vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.
 github.com/loft-sh/vcluster
-###### Managed k8s distr
+###### Managed k8s distrs
 github.com/ \
 github.com/ \
 github.com/ \
