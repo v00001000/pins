@@ -27,11 +27,3 @@
 ###### Rancher complete container management platform
 ##### https://
 
-## 
-###### 
-##### https://
-
-## 
-###### 
-##### https://
-
