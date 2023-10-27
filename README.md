@@ -16,7 +16,7 @@
 ##### https://github.com/weaveworks/tf-controller
 
 ## Serverless
-###### Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more!
+###### Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Func, Google CloudFunc & more!
 ##### https://github.com/serverless/serverless
 
 ## RancherLab stack
@@ -24,7 +24,7 @@
 ##### https://github.com/rancher/rancher
 
 ## Hashicorp Stack
-###### Rancher complete container management platform
-##### https://
+######
+#####
 
 []()
