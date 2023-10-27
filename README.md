@@ -19,7 +19,7 @@
 ###### Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more!
 ##### https://github.com/serverless/serverless
 
-## RancherLab stack ##https://www.rancher.com 
+## RancherLab stack
 ###### Rancher complete container management platform
 ##### https://github.com/rancher/rancher
 
@@ -27,3 +27,4 @@
 ###### Rancher complete container management platform
 ##### https://
 
+[]()
